@@ -1,0 +1,93 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+R0
+!s11f vlog 2021.2_1 2021.05, May 15 2021
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/user/Dhan_workspace/labs/lab1_code
+T_opt
+!s110 1742280445
+VhH3=<AQ4Sieaa6Q``2c1@0
+Z2 04 11 4 work packet_test fast 0
+=1-000ae431a4f1-67d916fc-45428-1853
+Z3 !s124 OEM100
+Z4 o-quiet -auto_acc_if_foreign -work work +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2021.2_1;73
+R1
+T_opt1
+Z7 !s110 1742289028
+Vm6H1n[TX7aLa5XaNVH3QK3
+R2
+=1-000ae431a4f1-67d93884-39284-2004
+R3
+R4
+R5
+n@_opt1
+R6
+Xpacket_pkg
+Z8 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R7
+!i10b 1
+!s100 9NONfbNnF`YlOcA;zJI761
+IX[HQblkUTz:WbEE>f50EC2
+S1
+Z9 d/home/user/Dhan_workspace/labs/lab2_rand
+w1742289019
+Fpacket_pkg.sv
+Fpacket_data.sv
+!i122 18
+L0 1 0
+VX[HQblkUTz:WbEE>f50EC2
+Z10 OL;L;2021.2_1;73
+r1
+!s85 0
+31
+Z11 !s108 1742289028.000000
+Z12 !s107 packet_data.sv|packet_pkg.sv|packet_test.sv|
+Z13 !s90 packet_test.sv|
+!i113 0
+Z14 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R5
+vpacket_test
+R8
+DXx4 work 10 packet_pkg 0 22 X[HQblkUTz:WbEE>f50EC2
+R7
+!i10b 1
+!s100 e3jSYiPE6d0T1kKjQJa1<2
+I=;SGY39z1zQ@=PU93BTl82
+S1
+R9
+w1742288916
+8packet_test.sv
+Fpacket_test.sv
+!i122 18
+L0 3 23
+VDg1SIo80bB@j0V0VzS_@n1
+R10
+r1
+!s85 0
+31
+R11
+R12
+R13
+!i113 0
+R14
+R5
